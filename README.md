@@ -1,3 +1,3 @@
-# Life
+# Death
 
-This is repo is about good things and is good
+This repo is about bad things; it's malware
